@@ -1,7 +1,3 @@
-/**
- * Copyright &copy; 2017 Dell Inc. or its subsidiaries.  All Rights Reserved.
- */
-
 package com.monadiccloud.applications.matchstats.service.repository.impl;
 
 import com.monadiccloud.applications.matchstats.service.model.Player;

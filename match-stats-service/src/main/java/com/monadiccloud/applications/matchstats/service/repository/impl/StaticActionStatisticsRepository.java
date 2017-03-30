@@ -1,8 +1,3 @@
-/**
- * &copy; 2017 VCE Company, LLC. All rights reserved.
- * VCE Confidential/Proprietary Information
- */
-
 package com.monadiccloud.applications.matchstats.service.repository.impl;
 
 import com.monadiccloud.applications.matchstats.service.repository.ActionStatisticsRepository;
