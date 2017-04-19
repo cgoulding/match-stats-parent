@@ -17,6 +17,7 @@
 
     <modules>
         <module>match-stats-service</module>
+        <module>match-stats-engine</module>
         <module>match-stats-ui</module>
     </modules>
 
